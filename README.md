@@ -1,4 +1,4 @@
-#Stone Game - Final Project for Code in Place
+Stone Game - Final Project for Code in Place
 --------------------------------------------
 
 Created by: Stephan Multani
